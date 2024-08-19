@@ -14,7 +14,7 @@ This Flutter project demonstrates Color Picker Feature with All it's core functi
 4. Run the app.
 
 ## Usage
-1. Install the [flutter_tts](https://pub.dev/packages/flutter_colorpicker) Package.
+1. Install the [flutter_ColorPicker](https://pub.dev/packages/flutter_colorpicker) Package.
 
 
 ## Contribution
